@@ -1,7 +1,5 @@
 function sleepIn(weekday) {
-	
-		console.log('sleep');
-	
+	console.log('sleep');
 }
 
-sleepIn(Monday);
+sleepIn(Monday,false);
