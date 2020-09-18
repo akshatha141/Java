@@ -3,3 +3,4 @@ function sleepIn(weekday) {
 }
 
 sleepIn(Monday,false,true);
+console.log("okay");
